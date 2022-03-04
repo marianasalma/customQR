@@ -1,5 +1,5 @@
 # customQR
-Custom QR code generator built with Python's GUI Library, Tkinter, and qrcode from Pillow (Python imaging library)
+Color customizable QR code generator built with Python's TKinter and Pillow
 
 ## 📌 Before running
 This program utilizes the Python imaging library Pillow and QRcode package
